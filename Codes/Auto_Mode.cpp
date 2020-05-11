@@ -3,7 +3,7 @@
 /*
 	*
 	* Project Name: 	Defence Mechanism using Image Processing
-	* Author List: 		Rahul Chandak, Jagrut Jadhav
+	* Author List: 		Jagrut Jadhav,Rahul Chandak
 	* Filename: 		Auto_Mode.cpp
 	* Functions: 		main()
 	* Global Variables:	none
