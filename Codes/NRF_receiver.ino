@@ -3,7 +3,7 @@
 /*
  *
   * Project Name:   Defence Mechanism using Image Processing
-  * Author List:    Rahul Chandak, Jagrut Jadhav
+  * Author List:    Jagrut Jadhav,Rahul Chandak
   * Filename:       NRF_Receiver.ino
   * Functions:      setup(),loop(),forward(),backward(),right(),left(),stop(),cam_up(),cam_down(),cam_left,cam_right()
   * Global Variables: m11,m12,m21,m22,count,pos1,pos2,laser,address
